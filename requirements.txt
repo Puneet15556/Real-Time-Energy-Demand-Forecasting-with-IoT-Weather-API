@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+pymongo
+requests
+python-dotenv
+pytz
+xgboost
